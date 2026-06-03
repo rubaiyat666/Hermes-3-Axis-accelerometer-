@@ -33,14 +33,14 @@ Hermes is a 3-Axis accelerometer that uses an embeded mpu6050 for controlling an
 
 | Name | Purpose | Qty | Total Cost (USD) | Distributor | Link |
 |------|---------|-----|-----------------|-------------|------|
-| PCB | The board | 5 | $30.00 | JLCPCB | [Order](https://jlcpcb.com) |
-| 4.7kΩ Resistor | I2C Pull-up | 2 | $1.00 | Digikey | [Order](https://www.digikey.com/en/products/detail/susumu/RG2012L-472-L-T05/3738065) |
-| 10nF Capacitor | Voltage stabilization | 1 | $1.00 | Digikey | [Order](https://www.digikey.com/en/products/detail/kemet/C0402C103K5RECAUTO/8646477) |
-| 2.2nF Capacitor | Voltage stabilization | 1 | $1.00 | Digikey | [Order](https://www.digikey.com/en/products/detail/kemet/C0402C222F3GECTU/8644380) |
-| 0.1µF Capacitor | Voltage stabilization | 2 | $3.00 | Digikey | [Order](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05B104KP5NNNC/3886660) |
-| 1.3" OLED Display | Output display | 1 | $5.00 | Daraz | [Order](https://www.daraz.com.bd/products/13-oled-iic-display-i2c-display-module-i323905918.html) |
-| Seeed XIAO RP2040 | MCU | 1 | $11.00 | Daraz | [Order](https://www.daraz.com.bd/products/seeed-seeeduino-xiao-rp2040-raspberry-pi-rp2040-chip-development-board-module-for-arduinomicropythoncircuitpython-i385068569-s1923625860.html) |
-| MPU-6050 | Accelerometer/Gyroscope | 1 | $14.90 | TDK InvenSense | [Order](https://jlcpcb.com/partdetail/TDKInvenSense-MPU6050/C24112) |
+| PCB | The board | 5 | $30.00 | JLCPCB | [link](https://jlcpcb.com) |
+| 4.7kΩ Resistor | I2C Pull-up | 2 | $1.00 | Digikey | [link](https://www.digikey.com/en/products/detail/susumu/RG2012L-472-L-T05/3738065) |
+| 10nF Capacitor | Voltage stabilization | 1 | $1.00 | Digikey | [link](https://www.digikey.com/en/products/detail/kemet/C0402C103K5RECAUTO/8646477) |
+| 2.2nF Capacitor | Voltage stabilization | 1 | $1.00 | Digikey | [link](https://www.digikey.com/en/products/detail/kemet/C0402C222F3GECTU/8644380) |
+| 0.1µF Capacitor | Voltage stabilization | 2 | $3.00 | Digikey | [link](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05B104KP5NNNC/3886660) |
+| 1.3" OLED Display | Output display | 1 | $5.00 | Daraz | [link](https://www.aliexpress.com/item/1005004131362533.html?spm=a2g0o.cart.0.0.7d0b38daOzt1YF&mp=1&pdp_npi=6%40dis%21USD%21USD%203.19%21USD%202.39%21%21USD%202.39%21%21%21%402101246417804712022741622eec63%2112000028137900082%21ct%21BD%217350065947%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
+| Seeed XIAO RP2040 | MCU | 1 | $11.00 | Daraz | [link](https://www.aliexpress.com/item/1005009606027401.html?spm=a2g0o.cart.0.0.ff2038dandQAX1&mp=1&pdp_npi=6%40dis%21USD%21USD+8.00%21USD+8.00%21%21USD+8.00%21%21%21%402101246417804709802308374eec63%2112000049609674780%21ct%21BD%217350065947%21%211%210%21) |
+| MPU-6050 | Accelerometer/Gyroscope | 1 | $14.90 | TDK InvenSense | [link](https://jlcpcb.com/partdetail/TDKInvenSense-MPU6050/C24112) |
 
 **Total Estimated Cost: $66.90**
 
